@@ -23,7 +23,7 @@ This dashboard was built using the following technologies:
 
 ## 📂 Data Source
 
-**Source: **Company operational weather dataset (anonymized)
+Source:Company operational weather dataset (anonymized)
 The dataset contains historical weather and solar irradiation records collected from multiple locations.
 Dataset includes:
 - Solar Irradiation (kW/m²)
