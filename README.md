@@ -7,16 +7,19 @@ An interactive Power BI dashboard designed to analyze solar irradiation trends a
 The Solar Irradiation & Weather Analysis Dashboard was developed during my internship as part of a real-world business analytics project. It enables users to monitor and compare solar irradiation and weather conditions using interactive visualizations and KPIs.
 The dashboard helps identify seasonal trends, compare different locations, and understand how environmental factors such as temperature influence solar irradiation
 
-🛠 **Tech Stack**
+## 🛠️ Tech Stack
 
 This dashboard was built using the following technologies:
-📊 Power BI Desktop – Dashboard development and interactive reporting.
-🔄 Power Query – Data cleaning, transformation, and preparation.
-🧠 DAX (Data Analysis Expressions) – KPI calculations, custom measures, and dynamic filtering.
-📈 Data Modeling – Relationships between weather and irradiation dataset.
-📁 File Formats
-.pbix – Power BI source file
-.png – Dashboard preview
+
+- 📊 **Power BI Desktop** – Developed interactive dashboards and reports with dynamic visualizations.
+- 🔄 **Power Query** – Performed data cleaning, transformation, and preparation.
+- 🧠 **DAX (Data Analysis Expressions)** – Created calculated measures, KPIs, and dynamic filtering logic.
+- 📈 **Data Modeling** – Built relationships between weather and solar irradiation datasets for efficient analysis.
+- 🎨 **Data Visualization** – Designed KPI cards, line charts, column charts, slicers, and interactive reports.
+- 📅 **Time Intelligence** – Implemented Fiscal Year and Fiscal Month calculations for trend analysis.
+- 📁 **File Formats**
+  - `.pbix` – Power BI source file
+  - `.png` – Dashboard preview image
 
 📂 **Data Source**
 
