@@ -10,10 +10,10 @@ The dashboard helps identify seasonal trends, compare different locations, and u
 🛠 **Tech Stack**
 
 This dashboard was built using the following technologies:
-📊 Power BI Desktop – Dashboard development and interactive reporting
-🔄 Power Query – Data cleaning, transformation, and preparation
-🧠 DAX (Data Analysis Expressions) – KPI calculations, custom measures, and dynamic filtering
-📈 Data Modeling – Relationships between weather and irradiation datasets
+📊 Power BI Desktop – Dashboard development and interactive reporting.
+🔄 Power Query – Data cleaning, transformation, and preparation.
+🧠 DAX (Data Analysis Expressions) – KPI calculations, custom measures, and dynamic filtering.
+📈 Data Modeling – Relationships between weather and irradiation dataset.
 📁 File Formats
 .pbix – Power BI source file
 .png – Dashboard preview
