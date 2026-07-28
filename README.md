@@ -1,11 +1,14 @@
-☀️** Solar Irradiation & Weather Analysis Dashboard**
+☀️**Solar Irradiation & Weather Analysis Dashboard**
+
 An interactive Power BI dashboard designed to analyze solar irradiation trends and weather parameters across multiple locations. The dashboard provides insights into irradiation patterns, seasonal variations, and environmental conditions to support energy analysis and operational decision-making.
 
 **Project Overview**
+
 The Solar Irradiation & Weather Analysis Dashboard was developed during my internship as part of a real-world business analytics project. It enables users to monitor and compare solar irradiation and weather conditions using interactive visualizations and KPIs.
 The dashboard helps identify seasonal trends, compare different locations, and understand how environmental factors such as temperature influence solar irradiation
 
 🛠 **Tech Stack**
+
 This dashboard was built using the following technologies:
 📊 Power BI Desktop – Dashboard development and interactive reporting
 🔄 Power Query – Data cleaning, transformation, and preparation
@@ -16,6 +19,7 @@ This dashboard was built using the following technologies:
 .png – Dashboard preview
 
 📂 **Data Source**
+
 Source: Company operational weather dataset (anonymized)
 The dataset contains historical weather and solar irradiation records collected from multiple locations.
 Dataset includes:
@@ -28,6 +32,7 @@ Fiscal Year
 Location   
 
 ✨ **Dashboard Features**
+
 Business Problem
 Organizations managing solar energy systems require continuous monitoring of irradiation and weather conditions. Raw datasets make it difficult to identify seasonal trends, compare locations, and evaluate environmental impacts on solar performance.
 
@@ -39,6 +44,7 @@ Analyze monthly and fiscal-year trends
 Track weather conditions affecting solar irradiation
 
 **Dashboard Walkthrough**
+
 📊 KPI Cards
 Displays key business metrics including:
 Total Irradiation
@@ -48,15 +54,19 @@ Average Irradiation
 Average Temperature
 
 📈 Monthly Irradiation Trend by Fiscal Year
+
 A multi-line chart comparing monthly irradiation across different fiscal years, making it easy to identify seasonal variations and year-over-year performance.
 
 📉 Monthly Average Irradiation
+
 Column chart showing the average irradiation for each fiscal month, helping identify months with peak and low solar availability.
 
 🌍 Monthly Irradiation by Location
+
 Line chart comparing average irradiation across different locations, enabling geographical performance analysis.
 
 🎛 Interactive Filters
+
 Users can dynamically filter the dashboard by:
 Location
 Fiscal Month
