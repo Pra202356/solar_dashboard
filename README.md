@@ -23,13 +23,21 @@ This dashboard was built using the following technologies:
 Source: Company operational weather dataset (anonymized)
 The dataset contains historical weather and solar irradiation records collected from multiple locations.
 Dataset includes:
+
+
 Solar Irradiation (kW/m²)
+
 Temperature (°C)
+
 Relative Humidity (%)
+
 Date
+
 Fiscal Month
+
 Fiscal Year
-Location   
+
+Location
 
 ✨ **Dashboard Features**
 
@@ -48,25 +56,25 @@ Track weather conditions affecting solar irradiation
 📊 KPI Cards
 Displays key business metrics including:
 Total Irradiation
+
 Maximum Irradiation
+
 Minimum Irradiation
+
 Average Irradiation
+
 Average Temperature
 
-📈 Monthly Irradiation Trend by Fiscal Year
-
+📈 Monthly Irradiation Trend by Fiscal Year:
 A multi-line chart comparing monthly irradiation across different fiscal years, making it easy to identify seasonal variations and year-over-year performance.
 
-📉 Monthly Average Irradiation
-
+📉 Monthly Average Irradiation:
 Column chart showing the average irradiation for each fiscal month, helping identify months with peak and low solar availability.
 
-🌍 Monthly Irradiation by Location
-
+🌍 Monthly Irradiation by Location:
 Line chart comparing average irradiation across different locations, enabling geographical performance analysis.
 
 🎛 Interactive Filters
-
 Users can dynamically filter the dashboard by:
 Location
 Fiscal Month
